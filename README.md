@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning DevOps
+- 🌱 I’m currently developing my skills as a Junior DevOps
 
 
 ## Projects from Sparta:
